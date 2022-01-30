@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Открытие приложений</string>
+    <string name="title">Открыть через</string>
+    <string name="browser">браузер</string>
+    <string name="map">карта</string>
+    <string name="phone">телефон</string>
+    <string name="any">определить автоматически</string>
+    <string name="call">вызвать</string>
+    <string name="no_choice">Не выбран способ открытия!</string>
+    <string name="no_text">Отсутствует ввод!</string>
+</resources>
